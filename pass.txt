@@ -1,0 +1,6 @@
+cat > pass.txt <<EOF
+123456
+password
+qwerty
+msfadmin
+EOF
