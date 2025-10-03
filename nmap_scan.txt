@@ -7,4 +7,3 @@ PORT    STATE    SERVICE      VERSION
 139/tcp open     netbios-ssn  tcpwrapped
 445/tcp open     microsoft-ds tcpwrapped
 
-(Observação: saída real deve ser colada aqui)
