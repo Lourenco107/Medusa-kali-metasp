@@ -1,8 +1,6 @@
-# criar users.txt e pass.txt simples
-cat > users.txt <<EOF
-user
-msfadmin
-nmsfadmin
-admin
+# users.txt — lista simples de usuários de teste
+nfsadmin
+nadmin
 root
-EOF
+admin
+user
