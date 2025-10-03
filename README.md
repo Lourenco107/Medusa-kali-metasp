@@ -2,9 +2,7 @@
 Laboratório: ataque de brute-force com Medusa(Kali + Metasploitable2)
 # Simulação de Ataques de Força Bruta com Kali + Medusa
 
-**Autor:** João Lourenço
 **Ambiente:** VirtualBox — Kali Linux (atacante) e Metasploitable2 (alvo) em rede host-only  
-**Data:** 2025-10-03
 
 ## Resumo
 Laboratório prático simulando ataques de força bruta em serviços comuns (FTP, SMB, Web) usando Kali Linux e **Medusa**. O objetivo é aprender técnicas de auditoria controlada, documentar as ações e propor mitigações.
