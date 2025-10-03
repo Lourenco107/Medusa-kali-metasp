@@ -3,4 +3,3 @@
 # ERROR: [ftp.mod] Server sent unknown response code: 500
 # Nota: no Metasploitable pode aparecer "500 OOPS: failed to open vsftpd log file"
 
-(Se você tiver a saída real do medusa, cole-a aqui. Caso contrário, mantenha este texto e explique no README que as VMs foram encerradas.)
