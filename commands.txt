@@ -1,6 +1,13 @@
-# criar commands.txt com anotações
-cat > commands.txt <<EOF
+# commands.txt — comandos que eu usei (exemplos)
+# Reconhecimento
 nmap -sV -p 21,22,80,139,445 192.168.56.101 -oN nmap_scan.txt
+
+# Testes manuais de FTP
+nc 192.168.56.101 21
+ftp 192.168.56.101
+
+# Brute-force com Medusa (exemplo)
 medusa -h 192.168.56.101 -U users.txt -P pass.txt -M ftp -t 6 > medusa_out.txt 2>&1
+
+# Enumeração SMB
 enum4linux -a 192.168.56.101 > enum4linux_out.txt 2>&1
-EOF
