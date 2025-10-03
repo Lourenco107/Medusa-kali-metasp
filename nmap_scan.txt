@@ -1,0 +1,10 @@
+# nmap_scan.txt — placeholder (substitua pela sua saída real quando tiver)
+# resumo: scan feito em 192.168.56.101 portas 21,22,80,139,445
+PORT    STATE    SERVICE      VERSION
+21/tcp  open     ftp          vsftpd (Misconfigured)
+22/tcp  open     ssh          OpenSSH 4.7p1 Debian
+80/tcp  closed   http
+139/tcp open     netbios-ssn  tcpwrapped
+445/tcp open     microsoft-ds tcpwrapped
+
+(Observação: saída real deve ser colada aqui)
