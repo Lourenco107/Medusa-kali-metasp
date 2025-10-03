@@ -1,0 +1,5 @@
+# enum4linux_out.txt — placeholder
+# Exemplo de resumo da enumeração
+# Users:
+# msfadmin
+# no further useful info due to configuration
